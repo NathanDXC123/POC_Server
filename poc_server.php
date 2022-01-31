@@ -21,5 +21,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 else {
     echo '<br>Could not Submit!';
 }
-
  ?>
